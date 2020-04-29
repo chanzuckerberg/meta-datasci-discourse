@@ -2,7 +2,7 @@
 
 Related Work :
 
-1. Analysis derived from Pubmed 200k RCT: A large-ish corpus derived from structured abstracts in clinical literature. Current state of the art. 
+**1. Analysis derived from Pubmed 200k RCT: A large-ish corpus derived from structured abstracts in clinical literature. Current state of the art.**
 
 * Dernoncourt and Lee (2017) PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts
     * ArXiv: https://arxiv.org/abs/1710.06071
@@ -11,7 +11,7 @@ Related Work :
     * ArXiv: https://arxiv.org/abs/1907.00962
     * Github: https://github.com/titipata/detecting-scientific-claim
 
-2. Prior work from Gully + collaborators looking at clause based sequential classification of fulltext data in molecular interaction literature. 
+**2. Prior work from Gully + collaborators looking at clause based sequential classification of fulltext data in molecular interaction literature.**
 
 * Dasigi et al (2017) Experiment Segmentation in Scientific Discourse as Clause-level Structured Prediction using Recurrent Neural Networks
     * ArXiv: https://arxiv.org/abs/1702.05398
